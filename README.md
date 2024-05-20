@@ -1,4 +1,4 @@
--# TuringMachineSimulator
+# TuringMachineSimulator
 A simple Turing Machine simulator written in C.
 
 ## Features
